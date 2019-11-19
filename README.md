@@ -6,12 +6,21 @@ This project was created to fine-tune my newly learned skills using node.js and 
 
 ## Usage
 1. Open the index.js file, open the terminal and "cd" into the correct directory.
+
 2. Once inside the correct directory, install the required NPM installations using "npm install".
+
 3. Invoke the following command within the terminal to get the app to run (node index).
+
 4. The user will be prompted to enter their GitHub username and their favorite color.
+
 5. The app will run and create an HTML file first, followed by a converted version of the file, a PDF.
+
 6. The PDF will contain all the required GitHub user info as well as a background set to the color specified by the user.
 
 ## Below is a screenshot of the created PDF:
 
  ![App Function](app-screenshot.png)
+
+## 3rd Party APIs
+
+1. GitHubAPI
